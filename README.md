@@ -7,7 +7,7 @@ The robot takes inputs in the form of potential user information, such as repeti
 
 ![alt text](https://github.com/chinmayeegidwani/pill_packaging_robot/blob/master/Pics/flowchart.PNG)
 
-![alt text]https://github.com/chinmayeegidwani/pill_packaging_robot/blob/master/Pics/cad_drawing.PNG
+![alt text](https://github.com/chinmayeegidwani/pill_packaging_robot/blob/master/Pics/cad_drawing.PNG)
 
 
 
